@@ -53,9 +53,7 @@ Notebooks should be executed sequentially:
 7. Mapping
    - Visualizing spatial air quality predictions on maps.
 
-### 6. Output Files
-- Trained models are saved in:
-```bash
-models/
-```
-- Generated figures, tabl
+### Notes
+- The project does not require running *.py* files.
+- All experiments and results are fully reproducible by running the notebooks in order.
+- Python version compatibility: 3.10
