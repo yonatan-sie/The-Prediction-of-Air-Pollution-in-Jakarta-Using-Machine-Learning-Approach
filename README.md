@@ -1,7 +1,15 @@
 # How to Run This Project
 
-<h3>1. Python Environment</h3>
-This Project is develop and tested using:
-  * Python version: 3.10
-  * Execution environment: Jupyter Notebook
-  * Launch method: Command Prompt (CMD)
+This project is implemented entirely using Jupyter Notebook and executed with Python 3.10 via Command Prompt (CMD).
+
+<h3>1. System Requirement</h3>
+
+<h3>2. Open Project Directory</h3>
+
+<h3>3. Launch Jupyter Notebook</h3>
+
+<h3>4. Dataset Location</h3>
+
+<h3>5. Notebook Execution Flow</h3>
+
+<h3>6. Output Files</h3>
