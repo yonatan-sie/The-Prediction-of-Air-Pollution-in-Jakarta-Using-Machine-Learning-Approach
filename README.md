@@ -33,21 +33,29 @@ data/raw/
 The datasets include:
   - Ground station air quality data
   - Satellite-derived data (Sentinel-5P, MODIS, VIIRS)
-  - Spatial grid and map-related data 
+  - Additional Satellite-drived data (Sentinel-5P, VIIRS)
 
 ### 5. Notebook Execution Flow
 All analysis is performed throught Jupyter Notebooks located in the notebook directory.
 Notebooks should be executed sequentially:
-1. Data Cleaning
-   - Cleaning and validating raw ground and satellite datasets.
-2. Preprocessing
+1. Additional Satellite Data
+   - Preparing additional satellite datasets (excluding MODIS) used to complement the main analysis.
+2. Data Cleaning
+   - Cleaning and validating raw ground-based and satellite datasets.
+3. Preprocessing
    - Feature engineering, handling missing values, and scaling.
 4. Exploratory Data Analysis (EDA)
    - Visualizing data distribution and relationships.
-6. Modelling
-   - Training and evaluating machine learning models.
-8. 
-9. Spatial Prediction
-10. Mapping
+5. Modelling
+   - Training and evaluating machine learning classification models.
+6. Prediction
+   - Generating spatial air quality prediction.
+7. Mapping
+   - Visualizing spatial air quality predictions on maps.
 
-6. Output Files
+### 6. Output Files
+- Trained models are saved in:
+```bash
+models/
+```
+- Generated figures, tabl
