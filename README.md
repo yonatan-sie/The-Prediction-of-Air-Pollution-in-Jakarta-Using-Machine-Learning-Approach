@@ -3,6 +3,8 @@
 This project is implemented entirely using Jupyter Notebook and executed with Python 3.10 via Command Prompt (CMD).
 
 <h3>1. System Requirement</h3>
+```bash
+git git git git git
 
 <h3>2. Open Project Directory</h3>
 
