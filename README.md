@@ -2,11 +2,14 @@
 
 This project is implemented entirely using Jupyter Notebook and executed with Python 3.10 via Command Prompt (CMD).
 
-<h3>1. System Requirement</h3>
+### 1. System Requirement
   - Python 3.10+ is installed on your computer.
   - Pip (Python package installer) is installed.
+  - Jupyter Notebook installed
 
-<h3>2. Open Project Directory</h3>
+2. Open Project Directory
+Open Command Prompt and navigate to the project directory:
+
 
 <h3>3. Launch Jupyter Notebook</h3>
 
